@@ -12,8 +12,15 @@
 - 📫 Contact : Twitter : @themaster_dev
 
 - Projet en ligne ⚡ 
-  - http://themasterlife.fr 
-  - themasterdev.fr http://themasterdev.fr
-  - Galerie d'art photoshop https://github.com/UndersunIO/Gallery_Photoshop
+  - [REACT] (working)
+
+- [HTML5] - [CSS3]  - [Javascript] :
+  - Galerie d'art photoshop                                                                                         https://github.com/UndersunIO/Gallery_Photoshop
   - Portfolio
+  
+  - [Wordpress] 
+        -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
+        -  theMasterdev: Partage de connaissance sur le développement web                                           http://themasterdev.fr
+
+
   
