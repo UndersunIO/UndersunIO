@@ -12,11 +12,12 @@
 - 📫 Contact : Twitter : @themaster_dev
 
 - Projet en ligne ⚡ 
-  - [REACT] (working)
+  - [REACT] 
+   - Portfolio ATC 
 
 - [HTML5] - [CSS3]  - [Javascript] :
-  - Galerie d'art photoshop                                                                                         https://github.com/UndersunIO/Gallery_Photoshop
-  - Portfolio
+  - Galerie d'art photoshop  https://galerie-mr-undersun.netlify.app/
+  - Portfolio Classique : 
   
   - [Wordpress] 
         -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
