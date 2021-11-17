@@ -14,12 +14,11 @@
 - Projet en ligne ⚡ 
   - [REACT] 
    - Portfolio ATC 
-
 - [HTML5] - [CSS3]  - [Javascript] :
   - Galerie d'art photoshop  https://galerie-mr-undersun.netlify.app/
-  - Portfolio Classique : 
-  
-  - [Wordpress] 
+  - Portfolio Classique :  
+- [Wordpress] :
+   
   -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
   -  theMasterdev: Partage de connaissance sur le développement web                                           http://themasterdev.fr
 
