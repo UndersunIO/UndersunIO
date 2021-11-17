@@ -12,8 +12,8 @@
 - 📫 Contact : Twitter : @themaster_dev
 
 - Projet en ligne ⚡ 
-  -Themasterlife.fr 
-  -themasterdev.fr
-  -Gallerie d'art photoshop
-  -Portfolio
+  - http://themasterlife.fr 
+  - themasterdev.fr http://themasterdev.fr
+  - Galerie d'art photoshop https://github.com/UndersunIO/Gallery_Photoshop
+  - Portfolio
   
