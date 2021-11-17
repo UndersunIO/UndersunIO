@@ -20,8 +20,8 @@
   - Portfolio Classique : 
   
   - [Wordpress] 
-        -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
-        -  theMasterdev: Partage de connaissance sur le développement web                                           http://themasterdev.fr
+  -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
+  -  theMasterdev: Partage de connaissance sur le développement web                                           http://themasterdev.fr
 
 
   
