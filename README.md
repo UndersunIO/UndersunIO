@@ -3,17 +3,17 @@
 ### TECHNOLOGIE WEB / EDUCATION / APPRENTISSAGE ! ⚛👨‍🎓
 
 
-**Développeur web React** (soon 3.0), créateur de contenus
+**Développeur web React**, créateur de contenus
 
 - 🔭 Je travaille actuellement sur un projet FullstackJS 
 - 🌱 J'apprends actuellement le back-end avec node.js / express / mongoDB
 - 👯 Disponible pour collaboration 
-- 🤔 J'aide les débutants web 
+- 🤔 J'aide les débutants du web 
 - 📫 Contact : Twitter : @themaster_dev
 
 - Projet en ligne ⚡ 
   - [REACT] 
-   - Portfolio ATC 
+   - Portfolio ATC  : https://alex-atc.netlify.app/
 - [HTML5] - [CSS3]  - [Javascript] :
   - Galerie d'art photoshop  https://galerie-mr-undersun.netlify.app/
   - Portfolio Classique :  
