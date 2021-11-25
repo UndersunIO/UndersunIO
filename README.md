@@ -1,4 +1,4 @@
-![Capture d’écran 2021-11-14 à 19 34 12](https://user-images.githubusercontent.com/59344910/142048642-fe7e8bf5-54bc-4c29-a37f-48480d465596.png)
+<a href="https://app.daily.dev/UndersunIO"><img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=cjs" width="400" alt="Alex "Undersun"'s Dev Card"/></a>
 
 ### TECHNOLOGIE WEB / EDUCATION / APPRENTISSAGE ! ⚛👨‍🎓
 
