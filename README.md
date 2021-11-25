@@ -1,10 +1,8 @@
-<a href="https://app.daily.dev/UndersunIO"><img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=9b7" width="400" alt="Alex "Undersun"'s Dev Card"/></a>
-
-### TECHNOLOGIE WEB / EDUCATION / APPRENTISSAGE ! ⚛👨‍🎓
-
 <a href="https://app.daily.dev/UndersunIO">
    <img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=9b7" width="400" alt="Alex "Undersun"/>
 </a>
+
+### TECHNOLOGIE WEB / EDUCATION / APPRENTISSAGE ! ⚛👨‍🎓
 
 
 **Développeur web React**, créateur de contenus
@@ -15,12 +13,13 @@
 - 🤔 J'aide les débutants du web 
 - 📫 Contact : Twitter : @themaster_dev
 
-- Projet en ligne ⚡ 
+-                                                                 Projet en ligne ⚡ 
 - [REACT]
    - Portfolio ATC  : https://alex-atc.netlify.app/
+                                                                                                                        
 - [HTML5] - [CSS3]  - [Javascript] :
+                                                                                                                        
   - Galerie d'art photoshop  https://galerie-mr-undersun.netlify.app/
-  - Portfolio Classique :  
 - [Wordpress] :
    
   -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
