@@ -19,7 +19,6 @@
                                                                                                                         
 - [HTML5] - [CSS3]  - [Javascript] :
                                                                                                                         
-  - Galerie d'art photoshop  https://galerie-mr-undersun.netlify.app/
 - [Wordpress] :
    
   -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
