@@ -2,7 +2,8 @@
    <img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=9b7" width="250" alt="Alex "Undersun"/>
 </a>
 
-### Developpeur Front-End : React |  Developpeur Back-End : Firebase/NodeJS | Blockchain with Solidity   ! ⚛👨‍🎓
+### Developpeur Front-End : React
+### Developpeur Back-End : Firebase/NodeJS | Blockchain Ethereum Solidity   ! ⚛👨‍🎓
 #### Creation de contenu, mentoring débutant.
 
 - 🔭 Je travaille actuellement sur une boutique en ligne React + firebase. 
