@@ -2,27 +2,36 @@
    <img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=9b7" width="250" alt="Alex "Undersun"/>
 </a>
 
-### TECHNOLOGIE WEB / EDUCATION / APPRENTISSAGE ! ⚛👨‍🎓
+### Developpeur Front-End : React |  Developpeur Back-End : Firebase/NodeJS | Blockchain with Solidity   ! ⚛👨‍🎓
 
 
 **Développeur web React**, créateur de contenus
 
-- 🔭 Je travaille actuellement sur un projet FullstackJS 
-- 🌱 J'apprends actuellement le back-end avec node.js / express / mongoDB
+- 🔭 Je travaille actuellement sur une boutique en ligne React + firebase. 
+- 🌱 J'apprends actuellement le developpement blockchain.
 - 👯 Disponible pour collaboration 
-- 🤔 J'aide les débutants du web 
-- 📫 Contact : Twitter : @themaster_dev
+- 🤔 J'aide les débutants.
+- 📫 Contact : Twitter : @atcdev_
 
--                                                                 Projet en ligne ⚡ 
+                                                                Projet en ligne ⚡ 
 - [REACT]
    - Portfolio ATC  : https://alex-atc.netlify.app/
+   - Boutique en ligne (Version de developpement, pas la production) : Hebergement en cours.
+- [NEXT]
+   - Site de Mint d'une collection de NFT : [EN COURS]
+- [Solidity]
+   - Creation d'un token ERC20
+   - Creation de SmartContract pour une collection de NFT 
                                                                                                                         
-- [HTML5] - [CSS3]  - [Javascript] :
+             
                                                                                                                         
-- [Wordpress] :
-   
-  -  theMasterlife: Autour de l'optimisation et compréhension de divers concepts qui nous entoure.            http://themasterlife.fr 
-  -  theMasterdev: Partage de connaissance sur le développement web                                           http://themasterdev.fr
+                                                                                                                                  
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                              
 
 
   
