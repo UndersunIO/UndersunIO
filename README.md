@@ -3,9 +3,7 @@
 </a>
 
 ### Developpeur Front-End : React |  Developpeur Back-End : Firebase/NodeJS | Blockchain with Solidity   ! ⚛👨‍🎓
-
-
-**Développeur web React**, créateur de contenus
+#### Creation de contenu, mentoring débutant.
 
 - 🔭 Je travaille actuellement sur une boutique en ligne React + firebase. 
 - 🌱 J'apprends actuellement le developpement blockchain.
