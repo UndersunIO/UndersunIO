@@ -17,7 +17,7 @@
    - ATCDev[Avril 2023] : En developpement 30% progress.                                                                                                                     
    - Boutique en ligne (Version de developpement, pas la production) : Hebergement en cours.
 
-                                                                                                                         # [NEXT]
+   # [NEXT]
    - Echos Singularity[Avril 2023] : En developpement 98% progress [https://echo-singularity-blog-v1.vercel.app/]
                                                                                                                         
 - [Solidity]
