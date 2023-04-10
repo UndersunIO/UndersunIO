@@ -7,15 +7,18 @@
 
 
 - 🔭 Je travaille actuellement sur [Projets React présent ci-dessous]
+- Apprentissage actuel : Focus sur l UX Design .                                                                                                                       
 - 📫 Contact : Twitter : @atcdev_
 
                                                                 Projet en ligne ⚡ 
 - [REACT]
-   - Portfolio ATC  : https://alex-atc.netlify.app/
-   - ATCDev[Avril 2023] : En developpement 10% progress.                                                                                                                     
+   - Portfolio ATC  : Refonte en cours [avril 2023]
+                                                                                                                     
+   - ATCDev[Avril 2023] : En developpement 30% progress.                                                                                                                     
    - Boutique en ligne (Version de developpement, pas la production) : Hebergement en cours.
-- [NEXT]
-   - Echos Singularity[Avril 2023] : En developpement 98% progress.
+
+                                                                                                                         # [NEXT]
+   - Echos Singularity[Avril 2023] : En developpement 98% progress [https://echo-singularity-blog-v1.vercel.app/]
                                                                                                                         
 - [Solidity]
    - Creation d'un token ERC20
