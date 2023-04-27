@@ -12,17 +12,19 @@
 
                                                                 Projet en ligne ⚡ 
 # [REACT]
-   - Portfolio ATC  : Refonte en cours [avril 2023]
+   - Portfolio ATC  : Refonte en cours sur ATCDev
                                                                                                                      
-   - ATCDev[Avril 2023] : En developpement 30% progress.                                                                                                                     
+   - ATCDev[Avril 2023] : En developpement 80% progress(28Avril2023).                                                                                                                     
    - Boutique en ligne (Version de developpement, pas la production) : Hebergement en cours.
 
-   # [NEXT]
+                                                                                                                        
+ # [NEXT]
    - Echos Singularity[Avril 2023] : En developpement 98% progress [https://echo-singularity-blog-v1.vercel.app/]
                                                                                                                         
 - [Solidity]
    - Creation d'un token ERC20
    - Creation de SmartContract pour une collection de NFT 
+                                                                                                                        
                                                                                                                         
              
                                                                                                                         
