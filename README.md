@@ -2,7 +2,7 @@
    <img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=9b7" width="250" alt="Alex "Undersun"/>
 </a>
 
-## Développeur Front-End React/Vue ⚛
+## **Développeur Front-End** React/Vue ⚛
 #### Développement Back-End : Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓
 
 
@@ -12,13 +12,13 @@
  ## Projet personnel ⚡ 
 ### React
    - **Portfolio Dev** : Refonte en cours sur ATCDev
-   - **ATCDev** : En developpement 80% progress(28Avril2023)          
+   - **ATCDev** : En developpement 90% progress    
    - **Shop D'escience**: Boutique de contenu éducatif : En pause jusqu'au lancement d'ATCDev/Echos.
 ### Vue
    - **TrackEvolution** : Gestion de tache et d'organisation de manière ludique et visuelle.
                
  ### NEXT
-   - Echos Singularity : https://echos.vercel.app/]
+   - Echos Singularity : https://echos.vercel.app/
                                                                                                                         
 ### Solidity
    - Creation d'un token **ERC20**
