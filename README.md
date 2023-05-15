@@ -7,10 +7,10 @@
 ## Développement Back-End :
    **Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓**
 
-
 - 🔭 Je travaille actuellement sur : TrackEvolution.
 - Apprentissage actuel : VueJs .                                                                                                                       
-- 📫 **Contact Twitter** : @atcdev_ [![MIT License](https://img.shields.io/twitter/follow/atcdev_?style=social)](https://choosealicense.com/licenses/mit/)
+- 📫 **Contact Twitter** : @atcdev_ [![MIT License](https://img.shields.io/twitter/follow/atcdev_?style=social)]([https://choosealicense.com/licenses/mit/](https://twitter.com/atcdev_))
+                                                                                                                        
  ## Projet personnel ⚡ 
 ### React
    - **Portfolio Dev** : Refonte en cours sur ATCDev
