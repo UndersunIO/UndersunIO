@@ -3,9 +3,9 @@
 </a>
 
 # Développeur Front-End :
-                                                                                                                        **React/Vue*⚛
+**React/Vue*⚛
 # Développement Back-End :
-                                                                                                                        **Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓**
+ **Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓**
 
 
 - 🔭 Je travaille actuellement sur : TrackEvolution.
