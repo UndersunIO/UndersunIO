@@ -2,10 +2,10 @@
    <img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=9b7" width="250" alt="Alex "Undersun"/>
 </a>
 
-# Développeur Front-End :
-**React/Vue*⚛
-# Développement Back-End :
- **Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓**
+## Développeur Front-End :
+   **React/Vue*⚛
+## Développement Back-End :
+   **Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓**
 
 
 - 🔭 Je travaille actuellement sur : TrackEvolution.
