@@ -5,7 +5,7 @@
 ## Développeur Front-End :
    **React/Vue**
 ## Développement Back-End :
-   **Firebase(Firestore)/NodeJS | Solidity | Commence c# pour Unity👨‍🎓**
+   **Firebase(Firestore)/NodeJS | Solidity 🎓**
                                                                                                        
  ## Projet personnel ⚡ 
 ### React
@@ -23,8 +23,6 @@
    - Creation d'un token **ERC20**
    - Creation de SmartContract pour une collection de NFT 
 
-### Unity
-   - En période d'apprentissage.
 
                                                                                                                         
 - 🔭 Je travaille actuellement sur : TrackEvolution.
