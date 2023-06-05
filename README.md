@@ -26,6 +26,6 @@
 
                                                                                                                         
 - 🔭 Je travaille actuellement sur : TrackEvolution.
-- Apprentissage actuel : VueJs .                                                                                                                       
+- Je m'intéresse aux experiences XR et commence unity.                                                                                                                      
 - 📫 **Contact Twitter** : @atcdev_ [![MIT License](https://img.shields.io/twitter/follow/atcdev_?style=social)]([https://choosealicense.com/licenses/mit/](https://twitter.com/atcdev_))
                  
