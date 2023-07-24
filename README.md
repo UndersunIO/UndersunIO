@@ -19,9 +19,5 @@
    - Creation d'un token **ERC20**
    - Creation de SmartContract optimisé NFT ERC721A
 
-
-                                                                                                                       
-- 🔭 Je travaille actuellement sur : Redux + Test unitaire JEST.
-- Je m'intéresse aux experiences XR et commence unity (c#).                                                                                                                      
 - 📫 **Contact Twitter** : @atcdev_ [![MIT License](https://img.shields.io/twitter/follow/atcdev_?style=social)]([https://choosealicense.com/licenses/mit/](https://twitter.com/atcdev_))
                  
