@@ -2,6 +2,8 @@
 ## Développeur Front-End : **ReactTS/ VueTS**  
 ## Développement Back-End :  **Firestore / NestJS | Solidity 🎓**
 
+EdTech / VR 
+
 ## Projet personnel ⚡ 
 ## Exercice CodinGame /
 - Magic Tower : https://www.codingame.com/contribute/view/6215543d7eb35d653edca32c8533fc191845c
