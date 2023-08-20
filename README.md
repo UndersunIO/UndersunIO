@@ -6,10 +6,15 @@
 </a>
 
 ## Projet personnel ⚡ 
+## Exercice CodinGame 
+- Magic Tower : https://www.codingame.com/contribute/view/6215543d7eb35d653edca32c8533fc191845c
+- Where is Trinity ? (WIP) : https://www.codingame.com/contribute/view/668736e7dfbd3e1a9c2ce5587d4c2a8b595c4
 ### React
    - **DevLab101** : Blog tech https://devlab101.vercel.app/  
    - **Shop D'escience**: Boutique de contenu éducatif : En pause jusqu'au lancement d'DevLab101/Echos.
    - **TrackEvolutionXD**: Suite MVP TrackEvolution + module apprentissage optimisé, adapté au TDAH https://track-evolution-xd.vercel.app/ (En travaux)
+   - Redux Toolkit
+   - RxJS experimentation
 ### Vue
    - **TrackEvolution** : Gestion de tache et d'organisation de manière ludique et visuelle.
      (https://trackevolution.vercel.app/)
