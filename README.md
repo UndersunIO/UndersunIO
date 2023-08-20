@@ -1,8 +1,7 @@
 
 ## Développeur Front-End : **ReactTS/ VueTS**  
 ## Développement Back-End :  **Firestore / NestJS | Solidity 🎓**
-<a href="https://app.daily.dev/MrUndersun"><img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=zde" width="300" alt="ATC's Dev Card"/></a>
-
+<a href="https://app.daily.dev/UndersunIO"><img src="https://api.daily.dev/devcards/94681062fc3b4fadb2cf2fc943bfd587.png?r=kha" width="200" alt="ATC's Dev Card"/></a>
 ## Projet personnel ⚡ 
 ## Exercice CodinGame /
 - Magic Tower : https://www.codingame.com/contribute/view/6215543d7eb35d653edca32c8533fc191845c
