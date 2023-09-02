@@ -1,5 +1,5 @@
 
-## Développeur Front-End : **ReactTS/ VueTS**  
+## Développeur Front-End : **React.js/ Vue.js**  
 ## Développement Back-End :  **Firestore / NestJS | Solidity 🎓**
 
 EdTech / VR 
