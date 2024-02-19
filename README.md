@@ -2,6 +2,10 @@
 
 [![Hello World, I'm ATC!](assets/atc.gif)](https://github.com/)
 
+French Web dev Typescript and Ux Design focus on Gamification.
+Learning is a game, then how to hack human for make action you really want ?
+With a gamification !
+
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/devlab101_) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexatc/) &nbsp;
