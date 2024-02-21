@@ -40,9 +40,7 @@ With a gamification !
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+   <a href="https://app.daily.dev/undersunio"><img src="https://api.daily.dev/devcards/v2/6StPvYKu3.png?type=wide&r=18x" width="652" alt="ATC's Dev Card"/></a>
 
 
 
