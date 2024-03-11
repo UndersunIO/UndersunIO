@@ -17,7 +17,7 @@ With a gamification !
 - 🔭 I’m currently working at [Devlab101](https://www.linkedin.com/company/p33r-finance/) 
 - 🌱 I’m passionate about Education, System around game, make idea on reality.
 - 📝 I’m aiming to write **one article per month** starting March 2024.
-- 🏆 Certification : Front React - Hong Kong University, Top < 1% Codingame, Ux design pro with google.
+- 🏆 Certification : Front React - Hong Kong University, Top < 1% Codingame, Ux design pro with google and +10 more..
 - ⚡ Others : I read books for learning, play the piano, draw, begin electronic and SO more.. 
 
 <div align="center">
