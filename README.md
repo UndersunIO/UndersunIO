@@ -14,7 +14,7 @@ With a gamification !
 </div>
 
 * 🌍  I'm based in Paris, France
-- 🔭 I’m currently working at [Devlab101](https://www.linkedin.com/company/p33r-finance/) 
+- 🔭 I’m currently working at [Devlab101](https://www.devlab101.com) 
 - 🌱 I’m passionate about Education, System around game, make idea on reality.
 - 📝 I’m aiming to write **one article per month** starting March 2024.
 - 🏆 Certification : Front React - Hong Kong University, Top < 1% Codingame, Ux design pro with google and +10 more..
